@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Bloodbank</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="select">Choose region</string>
+    <string name="select2">Choose blood group</string>
+
+
+    <string-array name="region_array">
+        <item>Chittagong</item>
+        <item>Dhaka</item>
+        <item>Barisal</item>
+        <item>Rajshahi</item>
+        <item>Khulna</item>
+        <item>Sylhet</item>
+        <item>Jessore</item>
+    </string-array>
+
+    <string-array name="blood">
+        <item>A positive</item>
+        <item>A negative</item>
+        <item>B positive</item>
+        <item>B negative</item>
+        <item>AB positive</item>
+        <item>AB negative</item>
+        <item>O positive</item>
+        <item>O negative</item>
+    </string-array>
+
+</resources>
